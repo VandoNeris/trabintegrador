@@ -1,8 +1,8 @@
-function NewContract(){
+function NewTicket(){
     return (
         <div>
             <h1>Criar Contratos</h1>
         </div>
     )
 }
-export default NewContract;
+export default NewTicket;
